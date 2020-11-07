@@ -1,0 +1,12 @@
+
+
+.dashboard-container {
+    background-image: url("./homepage-min.jpg");
+    height:75%;
+    position:relative;
+    border: 1px solid black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;  
+    opacity:0.9;
+}
